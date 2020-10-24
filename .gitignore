@@ -1,0 +1,6 @@
+.DS_Store
+shike-back-end/.idea
+shike-back-end/out
+shike-back-end/target
+shike-front-end/.idea
+shike-front-end/node_modules
