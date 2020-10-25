@@ -1,5 +1,11 @@
 # 用户界面设计-食刻后台管理系统
 
+## 项目体验
+
+前端界面：https://www.hihia.top/shike-front-end/
+
+后端接口文档：https://www.hihia.top/shike-back-end/swagger-ui.html
+
 ## 项目简介
 
 当我们有了前台的，服务于客户的APP时，我们也需要在管理侧有相应的数据管理。例如在食刻中，我们需要有一个后台的管理系统，方便管理员执行例如录入、更新菜品信息或食堂信息。
@@ -69,9 +75,3 @@
 使用Mysql作为数据库，数据库同样搭建在云服务器上：
 
 ![image-20201025175849940](http://image.hihia.top/Screenshot/image-20201025175849940.png)
-
-## 项目体验
-
-前端界面：https://www.hihia.top/shike-front-end/
-
-后端接口文档：https://www.hihia.top/shike-back-end/swagger-ui.html
